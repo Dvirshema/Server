@@ -1,0 +1,17 @@
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\FinalProj.exe
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\FinalProj.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\FinalProj.deps.json
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\FinalProj.runtimeconfig.json
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\FinalProj.pdb
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\doron\Desktop\FinalProj\FinalProj\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
